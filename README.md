@@ -1,6 +1,6 @@
-### `Hi👋, I'm Cintya Sitorus`
+###                         Hi👋, I'm Cintya Sitorus
 
-### `A Student eager to learn in the field of programming`
+###             A Student eager to learn in the field of programming
 
 <!--
 **cintyasitorus/cintyasitorus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
