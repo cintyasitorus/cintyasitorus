@@ -3,7 +3,7 @@
 ###             A Student eager to learn in the field of programming
 
 
-###  🌱 I’m currently learning course, etc
+###  🌱 I’m currently learning OOP course, etc
 ###  📫 How to reach me: cintyasitorus7@gmail.com
 ###  📄 Know about my experiences: https://drive.google.com/file/d/15jInlar1DvN2cV0Y5qzFS8zrkZ6T042E/view?usp=drive_link
 
