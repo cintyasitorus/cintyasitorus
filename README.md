@@ -5,7 +5,7 @@
 
 ###  🌱 I’m currently learning OOP course, etc
 ###  📫 How to reach me: cintyasitorus7@gmail.com
-###  📄 Know about my experiences: https://drive.google.com/file/d/15jInlar1DvN2cV0Y5qzFS8zrkZ6T042E/view?usp=drive_link
+###  📄 Know about my experiences: https://drive.google.com/file/d/18BvFEcLapSYVGUX6WTVCV8J2NL8cV4j5/view?usp=drive_link
 
 
 
